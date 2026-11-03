@@ -1,2 +1,10 @@
-# campus-outcome-predictor
-Predicting student dropout, enrollment and graduation with five ML classifiers and an interactive Streamlit app
+# Campus Outcome Predictor
+
+## a. Problem Statement
+## b. Dataset Description
+## c. GitHub Repository Link
+https://github.com/ranamiteshkumar/campus-outcome-predictor
+## d. Models Used
+### Comparison Table
+### Observations
+## Streamlit App
